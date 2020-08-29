@@ -1,0 +1,6 @@
+server:
+  port: 8989
+  context-path: /bus-reservation
+spring:
+  application:
+    name: bus-reservation
